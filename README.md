@@ -1,5 +1,5 @@
 # FIIs-Calculator
-Calculo de Fundos imobiliários de maneira simples.
+Calculadora de Fundos imobiliários(Via terminal).
 
 Para testar basta baixa-la e rodar o comando  `g++ calculator.cpp`  no terminal.
 
